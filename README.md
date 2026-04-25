@@ -1,2 +1,23 @@
-# Data-Analytics-Projects
-Portfolio of Data Analysis projects: Python, SQL, Tableau
+# Data Analytics Portfolio
+
+Вітаю! У цьому репозиторії зібрані мої ключові проєкти з аналізу даних, виконані за допомогою Python та SQL.
+
+### 📂 Мої проєкти:
+
+#### 1. Salary Trends in IT Industry
+* **Мета:** Аналіз 49,000+ анкет для виявлення факторів, що впливають на рівень доходу в IT.
+* **Стек:** Python (Pandas, Seaborn, Matplotlib).
+* **Результат:** Виявлено найбільш прибуткові технологічні стеки та закономірності зростання зарплат.
+
+#### 2. A/B Test Results Analysis
+* **Мета:** Оцінка впливу 50% знижки на конверсію в оплату.
+* **Стек:** Python (Pandas, Scipy для статистичних тестів).
+* **Результат:** Статистично підтверджено ефективність маркетингової акції.
+
+#### 3. Titanic Survival Study
+* **Мета:** Дослідницький аналіз даних (EDA) пасажирів Титаніка для пошуку факторів виживання.
+* **Стек:** Python (Pandas, Visualization).
+
+---
+**Навички:** Python, SQL, BigQuery, Tableau.
+**Контакти:** s107geo@gmail.com

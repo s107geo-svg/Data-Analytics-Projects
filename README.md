@@ -13,10 +13,10 @@ This repository contains my data analysis projects, demonstrating proficiency in
 * **Result:** Statistically confirmed a significant conversion uplift for Group B (**8.90%** vs **6.10%**).
 * **[View Code](AB_Test_Results_Analysis.ipynb) | [View Visuals](https://raw.githubusercontent.com/s107geo-svg/Data-Analytics-Projects/main/visualizations/ab_test_analysis/cumulative_conversion_chart.png)**
 
-## 3. Titanic Dataset Analysis
+## 3. Titanic Survival Analysis
 * **Goal:** Perform exploratory data analysis (EDA) to identify patterns in passenger survival rates.
 * **Stack:** Python (Pandas, Seaborn).
-* **[View Code](Titanic_Analysis.ipynb)**
+* **[View Code](Titanic_Survival_Analysis.ipynb)**
 
 ---
 **Contact Information:** s107geo@gmail.com

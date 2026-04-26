@@ -1,23 +1,22 @@
-# Data Analytics Portfolio
+# Data Analytics Projects Portfolio
 
-Вітаю! У цьому репозиторії зібрані мої ключові проєкти з аналізу даних, виконані за допомогою Python та SQL.
+This repository contains my data analysis projects, demonstrating proficiency in Python, SQL, and data visualization.
 
-### 📂 Мої проєкти:
+## 1. Salary Trends Analysis
+* **Goal:** Investigate salary variations across different countries and job titles.
+* **Stack:** Python (Pandas, Matplotlib, Seaborn).
+* **[View Code](Salary_Trends_Analysis.ipynb)**
 
-#### 1. Salary Trends in IT Industry Analysis
-* **Мета:** Аналіз 49,000+ анкет для виявлення факторів, що впливають на рівень доходу в IT.
-* **Стек:** Python (Pandas, Seaborn, Matplotlib).
-* **Результат:** Виявлено найбільш прибуткові технологічні стеки та закономірності зростання зарплат.
+## 2. A/B Test Results Analysis
+* **Idea:** Evaluate the impact of a marketing campaign by comparing conversion rates between control (A) and test (B) groups.
+* **Tasks:** Calculated cumulative conversion metrics and analyzed statistical significance.
+* **Result:** Statistically confirmed a significant conversion uplift for Group B (**8.90%** vs **6.10%**).
+* **[View Code](AB_Test_Results_Analysis.ipynb) | [View Visuals](https://raw.githubusercontent.com/s107geo-svg/Data-Analytics-Projects/main/visualizations/ab_test_analysis/cumulative_conversion_chart.png)**
 
-#### 2. A/B Test Results Analysis
-* **Мета:** Оцінка впливу 50% знижки на конверсію в оплату.
-* **Стек:** Python (Pandas, Scipy для статистичних тестів).
-* **Результат:** Статистично підтверджено ефективність маркетингової акції.
-
-#### 3. Titanic Survival Analysis
-* **Мета:** Дослідницький аналіз даних (EDA) пасажирів Титаніка для пошуку факторів виживання.
-* **Стек:** Python (Pandas, Visualization).
+## 3. Titanic Dataset Analysis
+* **Goal:** Perform exploratory data analysis (EDA) to identify patterns in passenger survival rates.
+* **Stack:** Python (Pandas, Seaborn).
+* **[View Code](Titanic_Analysis.ipynb)**
 
 ---
-**Навички:** Python, SQL, BigQuery, Tableau.
-**Контакти:** s107geo@gmail.com
+**Contact Information:** s107geo@gmail.com
